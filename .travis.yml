@@ -2,7 +2,8 @@ sudo: required
 language: go
 go:
   - "1.12"
-go_import_path: github.com/2dust/AndroidLibV2rayLite
+#go_import_path: github.com/2dust/AndroidLibV2rayLite
+go_import_path: github.com/jasonpp/AndroidLibV2rayLite
 git:
   depth: 5
 addons:
